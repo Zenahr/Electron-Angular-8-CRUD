@@ -1,5 +1,5 @@
-# SQLite + Electron + Express + Angular 8 CRUD
-SQLite + Electron + Express + Angular 8 CRUD
+# SQLite + Electron + Express + Angular 8 DBMS
+SQLite + Electron + Express + Angular 8 DBMS
 
 Basic CRUD.
 
